@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+*.pkl
+*.h5
+
+# Node
+node_modules/
+build/
+
+# Environment
+.env
+
+# Data
+data/
+chroma_db/
+*.csv
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+EOF
